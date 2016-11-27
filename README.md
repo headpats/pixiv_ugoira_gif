@@ -1,4 +1,4 @@
-PixivUgouraGIF
+PixivUgoiraGIF
 
 ATTENTION
 
