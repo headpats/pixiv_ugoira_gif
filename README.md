@@ -1,4 +1,13 @@
-pixiv_ugoira_gif
+PixivUgouraGIF
+
+ATTENTION
+
+I will not longer give support or updates to this script anymore. If it presents any issue and you're looking for an alternative, maybe you'd want to install this Chrome extension:
+
+https://chrome.google.com/webstore/detail/pixiv-ugoira-webm/gbloepphddjkabijnjhaplhhamkmkmik
+
+I haven't found any alternative for Firefox, though...
+
 ================
 
 INTRODUCTION
